@@ -33,6 +33,7 @@ var config = {
      */
     imgs: {
         "亲爱的小汤圆": "./imgs/xiaokeai.jpg",
+        "我们都可以一起度过": "./imgs/handinhand.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
